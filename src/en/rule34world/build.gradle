@@ -1,6 +1,6 @@
 ext {
     extName = 'Rule34World'
-    extClass = '.Subsplease'
+    extClass = '.Rule34world'
     extVersionCode = 2
     isTorrent = true
 }

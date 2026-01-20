@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.animeextension.en.subsplease
+package eu.kanade.tachiyomi.animeextension.en.rule34world
 
 import android.app.Application
 import android.content.SharedPreferences
@@ -27,7 +27,7 @@ import java.text.SimpleDateFormat
 import java.util.Locale
 import kotlin.Exception
 
-class Subsplease : ConfigurableAnimeSource, AnimeHttpSource() {
+class Rule34world : ConfigurableAnimeSource, AnimeHttpSource() {
 
     override val name = "Rule34World"
 
